@@ -5,9 +5,6 @@
   "license": "MIT",
   "repository": "stevenmiller888/ts-antlr4-scanner",
   "author": "Steven Miller (https://github.com/stevenmiller888)",
-  "engines": {
-    "node": ">=12.13"
-  },
   "keywords": [
     "antlr4-scanner",
     "antlr4",
